@@ -24,7 +24,7 @@ Used for Logistic Regression, Random Forest, Gradient boosting models, clusterin
 
 https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
-Used for Apriori and ANN model:
+Used for Apriori, ANN model and Reinforcement Learning:
 
 https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes
 
