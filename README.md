@@ -1,12 +1,20 @@
 # DataScienceProject
 Logistic Regression, 
+
 Random Forest, 
+
 Gradient Boosting models, 
+
 clustering methods, 
+
 Apriori algorithm, 
+
 ANN model, 
+
 CNN model, 
+
 Reinforcement Learning
+
 Prediction Model.
 
 
